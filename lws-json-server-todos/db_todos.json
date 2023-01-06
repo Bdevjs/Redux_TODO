@@ -32,7 +32,7 @@
     },
     {
       "text": "learn Redux",
-      "completed": false,
+      "completed": true,
       "id": 6
     },
     {
@@ -42,14 +42,14 @@
     },
     {
       "text": "Test",
-      "completed": false,
+      "completed": true,
       "id": 8
     },
     {
       "text": "hdjhdjhdjsdh",
       "completed": false,
       "id": 9
-    },   
+    },
     {
       "text": " Learn with Mehadi",
       "completed": false,
